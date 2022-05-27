@@ -1,0 +1,17 @@
+Lollipoptron Font Log;
+
+Forked from Hi. on June 14, 2018.
+
+Summary of Changes:
+
+New Name; Lollipoptron, New Character Designs made for some Characters.
+
+Detailed Design Change list:
+
+New designs; lowercase T, lowecase I, lowercase, J.
+
+Pre-existing designs; some symbols added.
+
+Other Changes: Redesigned some symbols, Hi. is replaced by Japari Symbol...
+
+Modifications by Heaven Castro.
